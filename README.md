@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full stack developer</h3>
 
 <p align="center">
-<img src="https://images.app.goo.gl/RD2vrCBD6g8WFMiB6" width="300%">
+<img src="C:\Users\DELL\OneDrive\Desktop\image.png" width="300%">
 <div align="center">
 </div>
 
