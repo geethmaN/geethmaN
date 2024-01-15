@@ -6,6 +6,10 @@
 <div align="center">
 </div>
 
+<p align="center">
+<img src="https://images.app.goo.gl/image.png" width="300%">
+<div align="center">
+</div>
 - 👨‍💻 All of my projects are available at https://geethmanimsarani.netlify.app
 -  📫 How to reach me **geethmaabeywickrama@gmail.com**
 
