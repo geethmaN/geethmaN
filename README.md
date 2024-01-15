@@ -1,15 +1,7 @@
 <h1 align="center">Hi 👋, I'm Geethma Nimsarani</h1>
 <h3 align="center">A passionate Full stack developer</h3>
 
-<p align="center">
-<img src="C:\Users\DELL\OneDrive\Desktop\image.png" width="300%">
-<div align="center">
-</div>
 
-<p align="center">
-<img src="https://images.app.goo.gl/image.png" width="300%">
-<div align="center">
-</div>
 - 👨‍💻 All of my projects are available at https://geethmanimsarani.netlify.app
 - 📫 How to reach me **geethmaabeywickrama@gmail.com**
 
