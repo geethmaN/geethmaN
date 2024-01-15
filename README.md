@@ -11,7 +11,7 @@
 <div align="center">
 </div>
 - 👨‍💻 All of my projects are available at https://geethmanimsarani.netlify.app
--  📫 How to reach me **geethmaabeywickrama@gmail.com**
+- 📫 How to reach me **geethmaabeywickrama@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geethman&label=Profile%20views&color=0e75b6&style=flat" alt="geethman" /> </p>
 
