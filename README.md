@@ -1,10 +1,10 @@
-<p align="center">
+<h1 align="center">Hi 👋, I'm Geethma Nimsarani</h1>
 
+<p align="center">
 <img src="https://github.com/geethmaN/geethmaN/blob/main/image.png" width="300%">
 <div align="center">
 </div>
 
-<h1 align="center">Hi 👋, I'm Geethma Nimsarani</h1>
 <h3 align="center">A passionate Full stack developer</h3>
 
 
