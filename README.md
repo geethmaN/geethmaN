@@ -1,3 +1,9 @@
+<p align="center">
+
+<img src="https://github.com/geethmaN/geethmaN/blob/main/image.png" width="300%">
+<div align="center">
+</div>
+
 <h1 align="center">Hi 👋, I'm Geethma Nimsarani</h1>
 <h3 align="center">A passionate Full stack developer</h3>
 
@@ -5,12 +11,6 @@
 - 👨‍💻 All of my projects are available at https://geethmanimsarani.netlify.app
 - 📫 How to reach me **geethmaabeywickrama@gmail.com**
 
-
-<p align="center">
-
-<img src="https://github.com/geethmaN/geethmaN/blob/main/image.png" width="300%">
-<div align="center">
-</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geethman&label=Profile%20views&color=0e75b6&style=flat" alt="geethman" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geethman" alt="geethman" /></a> </p>
