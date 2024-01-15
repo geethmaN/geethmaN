@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Geethma Nimsarani</h1>
 <h3 align="center">A passionate Full stack developer</h3>
 
+<p align="center">
+<img src="https://github.com/RazorKenway/RazorKenway/blob/main/SL_Android.jpg" width="300%">
+<div align="center">
+</div>
+
 - 👨‍💻 All of my projects are available at https://geethmanimsarani.netlify.app
 -  📫 How to reach me **geethmaabeywickrama@gmail.com**
 
