@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full stack developer</h3>
 
 <p align="center">
-<img src="https://github.com/RazorKenway/RazorKenway/blob/main/SL_Android.jpg" width="300%">
+<img src="https://images.app.goo.gl/RD2vrCBD6g8WFMiB6" width="300%">
 <div align="center">
 </div>
 
