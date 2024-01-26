@@ -8,7 +8,7 @@
 <h3 align="center">A passionate Full stack developer</h3>
 
 
-- 👨‍💻 All of my projects are available at https://geethmanimsarani.netlify.app
+- 👨‍💻 All of my projects are available at file:///C:/Users/Adventa%20PC/Desktop/Geethma-Portfolio/index.html#
 - 📫 How to reach me **geethmaabeywickrama@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geethman&label=Profile%20views&color=0e75b6&style=flat" alt="geethman" /> </p>
