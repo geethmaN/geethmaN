@@ -11,7 +11,7 @@
 
 ---
 
-<h3 align="center">A passionate Full stack developer</h3>
+<h3 align="center">A passionate Full-stack developer | Frontend developer | Web developer</h3>
 
 - 👨‍💻 All of my projects are available at **https://geethman.github.io/Geethma_Portfolio/**
 - 📫 How to reach me **geethmaabeywickrama@gmail.com**
